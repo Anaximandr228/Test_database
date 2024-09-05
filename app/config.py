@@ -1,4 +1,4 @@
-host = "localhost"  # Хост приложения
-user = "postgres"  # Имя пользователя PostgreSQL
-password = "rtf558Ur"  # Пароль пользователя PostgreSQL
-db_name = "test_work"  # Название базы данных PostgeSQL
+host = ""  # Хост приложения
+user = ""  # Имя пользователя PostgreSQL
+password = ""  # Пароль пользователя PostgreSQL
+db_name = ""  # Название базы данных PostgeSQL
